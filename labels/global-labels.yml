@@ -1,4 +1,5 @@
 - name: Department: Engineering
+ - name: "Department: Engineering"
   description: Hosts belonging to members of the Engineering department
   label_membership_type: host_vitals
   criteria:
