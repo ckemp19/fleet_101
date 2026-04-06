@@ -1,4 +1,5 @@
 url: https://zoom.us/client/latest/ZoomInstallerIT.pkg
 post_install_script:
   path: ../scripts/zoom-config.sh
-  icon_path: ../../all/icons/zoom_desktop.png
+icon:
+  path: ../../all/icons/zoom_desktop.png
